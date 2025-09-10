@@ -1,9 +1,10 @@
-#  Amazon Homepage Clone
+#  E-commerce Homepage Clone (Amazon Inspired)
 
-A static replica of the Amazon homepage built using **HTML** and **CSS**, designed to practice responsive layout structuring and front-end design skills.
+A static replica of the Amazonc homepage built using **HTML** and **CSS**, designed to practice responsive layout structuring and front-end design skills.
 
 ##  Technologies Used
 - **HTML5** – Page structure and elements
+
 - **CSS3** – Styling and responsive design
 
 ##  Features
@@ -14,4 +15,4 @@ A static replica of the Amazon homepage built using **HTML** and **CSS**, design
 - Footer section
 
 ##  Screenshot
-<img width="1916" height="976" alt="amazons" src="https://github.com/user-attachments/assets/31865657-e8f1-45d9-a985-826abf1eaa9d" />
+<img width="1918" height="981" alt="amazonclone1" src="https://github.com/user-attachments/assets/eb56e67f-3976-4bfb-a8f8-bb57f4db303d" />
